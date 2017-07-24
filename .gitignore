@@ -19,3 +19,4 @@
 *.js
 python/applications/mobdat/networks/fullnet/net/*
 python/stats
+*.idea/*
